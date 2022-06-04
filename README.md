@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @Santhosh Kumar
-- 👀 I’m interested in Data science and Machine Learning.
-- 🌱 I’m currently learning Concepts on Data science such as AIops, Deep Learning, ML etc..
+- 👀 Love with  Data science and Machine Learning.
+- 🌱 I’m currently pursuing Concepts on Data science such as AIops, Deep Learning, ML etc..
+
+- Known Tools and Languages:
+-     C,Python,Arduino C, Machine Learning, Deep Learning, Bigdata, Spark 2.0, MLOPS,Git,Cloud.
 - 📫 How to reach me :  You could mail me : sk6724486@gmail.com
 -                       linkedin: linkedin.com/in/santhosh2548
 -                       
