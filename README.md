@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Santhosh Kumar
 - 👀 Love with  Data science and Machine Learning.
-- 🌱 I’m currently pursuing Concepts on Data science such as AIops, Deep Learning, ML etc..
+- 🌱 I’m currently working on Data science such as Analytics,AIops, Deep Learning, ML etc..
 
 - Known Tools and Languages:
 -     C,Python,Arduino C, Machine Learning, Deep Learning, Bigdata, Spark 2.0, MLOPS,Git,Cloud.
