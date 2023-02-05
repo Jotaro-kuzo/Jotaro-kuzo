@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Santhosh Kumar
+- 👋 Welcome to my Git Profile. This is @Santhosh Kumar
 - 👀 Love with  Data science and Machine Learning.
-- 🌱 I’m currently working on Data science such as Analytics,AIops, Deep Learning, ML etc..
+- 🌱 A working Profe$$ional on Data science such as Analytics,AIops, Deep Learning, Machine Learning, Problem solving, Statistical analytics and more and more..
 
 - Known Tools and Languages:
--     C,Python,Arduino C, Machine Learning, Deep Learning, Bigdata, Spark 2.0, MLOPS,Git,Cloud.
+-     C,Python,Arduino C, Machine Learning, Deep Learning, Bigdata, Spark 2.0, MLOPS,Git,Cloud, Statistics, Tableau, BI tools, SQL, NoSQL, AutoML tools, NLP, Computer Vision, RNN, Jira, Hadoop, Hive etc.
 - 📫 How to reach me :  You could mail me : sk6724486@gmail.com
 -                       linkedin: linkedin.com/in/santhosh2548
 -                       
